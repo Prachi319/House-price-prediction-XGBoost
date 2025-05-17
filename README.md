@@ -36,7 +36,7 @@ To build a **regression model** that predicts the **median house price** in a gi
 
 ## ⚙️ Models Used
 
--**XGBoost Regressor**
+- XGBoost Regressor
 ---
 
 ## 🧪 Model Evaluation Metrics
